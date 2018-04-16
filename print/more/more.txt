@@ -1,0 +1,3 @@
+This is a cmdlib example. With the more command in Windows this allows you to
+print the contents of a text file on to the command screen, displaying it.
+
