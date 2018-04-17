@@ -1,7 +1,7 @@
 # cmdlib
 Developer library for making batch scripts. Read this for more information
 
-[zamiur.github.io/cmdlib](zamiur.github.io/cmdlib) (not online now)
+[https://zamiur.github.io/cmdlib](zamiur.github.io/cmdlib) (not online now)
 
 Uses and Introduction
 ----
