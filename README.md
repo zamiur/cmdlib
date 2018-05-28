@@ -1,7 +1,13 @@
 # cmdlib
 Developer library for making batch scripts. Read this for more information
 
-[https://zamiur.github.io/cmdlib](https://zamiur.github.io/cmdlib) (not online now)
+[https://zamiur.github.io/cmdlib](https://zamiur.github.io/cmdlib) (Will add this page soon)
+
+Libraries Included
+----
+- Maths subdirectory, with examples of adding subtracting etc.
+
+- Print subdirectory,  displaying text on screen
 
 Uses and Introduction
 ----
