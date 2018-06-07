@@ -21,6 +21,8 @@ To program a batch script with cmdlib there is not much to set up other than hav
  - Command Prompt (or any alternative such as [cmder](http://cmder.net/))
  - A compiler (to convert to an .EXE and is completely **optional**)
  
+ To set up the developer environment just unzip all the libraries and dependencies in to the directory `C:\cmdlib\`
+ 
  Once your developer enviroment has been set up, you can start programming by first making a project folder (to store the batch file, other miscallenous files etc.)
  
  Changelog, credits and other things
